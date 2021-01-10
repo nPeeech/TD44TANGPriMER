@@ -1,5 +1,5 @@
 # TD44TANGPriMER
-作ろう!CPU版のTD4をTANG PriMERで動かしたものです．  
+[作ろう!CPU](https://book.mynavi.jp/ec/products/detail/id=116654)版のTD4をTANG PriMERで動かしたものです．  
 動いてはいますが，正しいverilogであるかは分かりません．  
 
 ## 動いている様子
