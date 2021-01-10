@@ -1,0 +1,11 @@
+set_pin_assignment	{ pin_clock }	{ LOCATION = K14; }
+set_pin_assignment	{ pin_led[0] }	{ LOCATION = B6; }
+set_pin_assignment	{ pin_led[1] }	{ LOCATION = C5; }
+set_pin_assignment	{ pin_led[2] }	{ LOCATION = A3; }
+set_pin_assignment	{ pin_led[3] }	{ LOCATION = A4; }
+set_pin_assignment	{ pin_n_reset }	{ LOCATION = K16; }
+set_pin_assignment	{ pin_switch[0] }	{ LOCATION = P5; }
+set_pin_assignment	{ pin_switch[1] }	{ LOCATION = N5; }
+set_pin_assignment	{ pin_switch[2] }	{ LOCATION = R2; }
+set_pin_assignment	{ pin_switch[3] }	{ LOCATION = P2; }
+
